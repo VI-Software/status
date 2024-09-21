@@ -6,27 +6,27 @@ sites:
   - name: VI Software API
     url: https://api.visoftware.tech/services/servers
     expectedStatusCodes:
-      - 200, 403
+      - 200
   - name: VI Software Yggdrasil Auth Server
     url: https://authserver.visoftware.tech
     expectedStatusCodes:
-      - 200, 403
+      - 200
   - name: VI Software CDN
     url: https://cdn.visoftware.tech
     expectedStatusCodes:
-      - 200, 403        
+      - 200     
   - name: VI Software PUF
     url: https://puf.visoftware.tech
     expectedStatusCodes:
-      - 200, 403  
+      - 200
   - name: VI Software PUF Nightly
     url: https://nightly-puf.visoftware.tech
     expectedStatusCodes:
-      - 200, 403      
+      - 200    
   - name: VI Software Skin Rendering Service
     url: https://skins.visoftware.tech
     expectedStatusCodes:
-      - 200, 403
+      - 200
   - name: VI Software Docs
     url: https://docs.visoftware.tech
     expectedStatusCodes:
