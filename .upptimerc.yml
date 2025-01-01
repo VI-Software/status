@@ -3,38 +3,34 @@ owner: VI-Software # Your GitHub organization or username, where this repository
 repo: status # The name of this repository
 
 sites:
+  - name: VI Software Portal
+    url: https://visoftware.dev
+    expectedStatusCodes:
+      - 200
   - name: VI Software API
-    url: https://api.visoftware.tech/services/servers
+    url: https://api.visoftware.dev/services/servers
     expectedStatusCodes:
       - 200
   - name: VI Software Yggdrasil Auth Server
-    url: https://authserver.visoftware.tech
+    url: https://authserver.visoftware.dev
     expectedStatusCodes:
       - 200
   - name: VI Software CDN
-    url: https://cdn.visoftware.tech
+    url: https://cdn.visoftware.dev
     expectedStatusCodes:
-      - 200     
-  - name: VI Software PUF
-    url: https://puf.visoftware.tech
-    expectedStatusCodes:
-      - 200
-  - name: VI Software PUF Nightly
-    url: https://nightly-puf.visoftware.tech
-    expectedStatusCodes:
-      - 200    
+      - 200      
   - name: VI Software Skin Rendering Service
-    url: https://skins.visoftware.tech
+    url: https://skins.visoftware.dev
     expectedStatusCodes:
       - 200
   - name: VI Software Docs
-    url: https://docs.visoftware.tech
+    url: https://docs.visoftware.dev
     expectedStatusCodes:
       - 200       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.visoftware.tech
+  cname: status.visoftware.dev
   # baseUrl: /launcher-status
   logoUrl: https://api.visoftware.tech/logo/vis-logo-nl.png
   name: VI Software Status
@@ -43,8 +39,8 @@ status-website:
   navbar:
     - title: Portal
       href: https://visoftware.tech
-    - title: Panel de Usuario Final (PUF)
-      href: https://puf.visoftware.tech
+    - title: Login
+      href: https://visoftware.dev/auth
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
