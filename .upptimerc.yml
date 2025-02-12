@@ -8,7 +8,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: VI Software API
-    url: https://api.visoftware.dev/services/servers
+    url: https://api.visoftware.dev
     expectedStatusCodes:
       - 200
   - name: VI Software Yggdrasil Auth Server
