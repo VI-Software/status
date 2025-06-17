@@ -23,6 +23,10 @@ sites:
     url: https://skins.visoftware.dev
     expectedStatusCodes:
       - 200
+  - name: User Content Server (Otto)
+    url: https://otto-usercontent.visoftware.dev
+    expectedStatusCodes:
+      - 200      
   - name: VI Software Docs
     url: https://docs.visoftware.dev
     expectedStatusCodes:
@@ -34,12 +38,12 @@ status-website:
   # baseUrl: /launcher-status
   logoUrl: https://api.visoftware.tech/logo/vis-logo-nl.png
   name: VI Software Status
-  introTitle: "Página oficial de estados de VI Software"
-  introMessage: VI Software is neither affiliated with nor endorsed by Mojang AB, Xbox Game Studios, or Microsoft Corporation
+  introTitle: "Official Status Page of VI Software"
+  introMessage: VI Software and its contributors are not affiliated with, endorsed by, approved by, or associated with, Minecraft, Mojang, Microsoft or Xbox Game Studios
   navbar:
     - title: Portal
-      href: https://visoftware.tech
-    - title: Login
+      href: https://visoftware.dev
+    - title: Dashboard
       href: https://visoftware.dev/auth
 
 # Upptime also supports notifications, assigning issues, and more
