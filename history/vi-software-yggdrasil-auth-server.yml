@@ -1,7 +1,7 @@
 url: https://authserver.visoftware.dev
-status: up
-code: 200
-responseTime: 324
-lastUpdated: 2025-06-25T10:42:11.792Z
+status: down
+code: 530
+responseTime: 96
+lastUpdated: 2025-06-25T17:09:22.559Z
 startTime: 2024-12-08T13:01:51.829Z
 generator: Upptime <https://github.com/upptime/upptime>
