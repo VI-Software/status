@@ -1,36 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: VI-Software # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: VI Software Portal
+    url: https://visoftware.dev
+    expectedStatusCodes:
+      - 200
+  - name: VI Software API
+    url: https://api.visoftware.dev
+    expectedStatusCodes:
+      - 200
+  - name: VI Software Yggdrasil Auth Server
+    url: https://authserver.visoftware.dev
+    expectedStatusCodes:
+      - 200
+  - name: VI Software CDN
+    url: https://cdn.visoftware.dev
+    expectedStatusCodes:
+      - 200      
+  - name: VI Software Skin Rendering Service
+    url: https://skins.visoftware.dev
+    expectedStatusCodes:
+      - 200
+  - name: User Content Server (Otto)
+    url: https://otto-usercontent.visoftware.dev
+    expectedStatusCodes:
+      - 200      
+  - name: VI Software Docs
+    url: https://docs.visoftware.dev
+    expectedStatusCodes:
+      - 200       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.visoftware.dev
+  # baseUrl: /launcher-status
+  logoUrl: https://api.visoftware.tech/logo/vis-logo-nl.png
+  name: VI Software Status
+  introTitle: "Official Status Page of VI Software"
+  introMessage: VI Software and its contributors are not affiliated with, endorsed by, approved by, or associated with, Minecraft, Mojang, Microsoft or Xbox Game Studios
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Portal
+      href: https://visoftware.dev
+    - title: Dashboard
+      href: https://visoftware.dev/auth
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
