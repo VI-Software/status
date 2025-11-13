@@ -1,7 +1,7 @@
 url: https://skins.visoftware.dev
-status: up
-code: 200
-responseTime: 555
-lastUpdated: 2025-11-12T23:15:34.249Z
+status: down
+code: 502
+responseTime: 426
+lastUpdated: 2025-11-13T14:31:00.986Z
 startTime: 2025-07-30T22:44:16.397Z
 generator: Upptime <https://github.com/upptime/upptime>
