@@ -1,7 +1,7 @@
 url: https://visoftware.dev
-status: up
-code: 200
-responseTime: 797
-lastUpdated: 2025-11-24T17:55:06.160Z
+status: down
+code: 502
+responseTime: 8567
+lastUpdated: 2025-11-24T22:35:15.785Z
 startTime: 2025-07-30T22:44:12.934Z
 generator: Upptime <https://github.com/upptime/upptime>
