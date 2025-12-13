@@ -1,7 +1,7 @@
 url: https://cdn.visoftware.dev
-status: up
-code: 200
-responseTime: 483
-lastUpdated: 2025-12-13T19:57:35.228Z
+status: down
+code: 502
+responseTime: 502
+lastUpdated: 2025-12-13T20:14:16.687Z
 startTime: 2025-07-30T22:44:15.551Z
 generator: Upptime <https://github.com/upptime/upptime>
