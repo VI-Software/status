@@ -4,16 +4,16 @@
     "url": "https://visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/visoftware.dev.ico",
     "slug": "vi-software-portal",
-    "status": "up",
-    "uptime": "93.64%",
-    "uptimeDay": "82.81%",
+    "status": "down",
+    "uptime": "93.87%",
+    "uptimeDay": "82.80%",
     "uptimeWeek": "97.54%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "93.64%",
+    "uptimeYear": "93.87%",
     "time": 686,
-    "timeDay": 424,
-    "timeWeek": 577,
-    "timeMonth": 903,
+    "timeDay": 439,
+    "timeWeek": 571,
+    "timeMonth": 899,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-01-07": 247,
@@ -96,7 +96,7 @@
       "2025-05-04": 809,
       "2025-05-02": 194,
       "2025-04-30": 5,
-      "2025-04-28": 526
+      "2025-04-28": 16
     }
   },
   {
@@ -104,16 +104,16 @@
     "url": "https://api.visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/api.visoftware.dev.ico",
     "slug": "vi-software-api",
-    "status": "up",
-    "uptime": "93.76%",
-    "uptimeDay": "82.80%",
+    "status": "down",
+    "uptime": "93.82%",
+    "uptimeDay": "82.79%",
     "uptimeWeek": "97.54%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "93.76%",
+    "uptimeYear": "93.82%",
     "time": 501,
-    "timeDay": 341,
-    "timeWeek": 414,
-    "timeMonth": 650,
+    "timeDay": 369,
+    "timeWeek": 422,
+    "timeMonth": 648,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2026-01-07": 247,
@@ -198,8 +198,7 @@
       "2025-04-15": 5,
       "2025-04-14": 19,
       "2025-04-11": 6,
-      "2025-04-01": 19,
-      "2025-03-31": 131
+      "2025-04-01": 19
     }
   },
   {
@@ -319,7 +318,7 @@
     "time": 444,
     "timeDay": 346,
     "timeWeek": 405,
-    "timeMonth": 501,
+    "timeMonth": 497,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2026-01-07": 247,
@@ -418,7 +417,7 @@
     "time": 504,
     "timeDay": 317,
     "timeWeek": 388,
-    "timeMonth": 787,
+    "timeMonth": 785,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2026-01-07": 247,
@@ -512,12 +511,12 @@
     "uptime": "95.26%",
     "uptimeDay": "82.80%",
     "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.68%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "95.26%",
     "time": 586,
     "timeDay": 322,
     "timeWeek": 401,
-    "timeMonth": 743,
+    "timeMonth": 745,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2026-01-07": 247,
