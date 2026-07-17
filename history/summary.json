@@ -437,16 +437,16 @@
     "url": "https://otto-usercontent.visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/otto-usercontent.visoftware.dev.ico",
     "slug": "user-content-server-otto",
-    "status": "down",
-    "uptime": "96.13%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "96.23%",
+    "status": "up",
+    "uptime": "96.12%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "96.21%",
     "time": 554,
-    "timeDay": 399,
-    "timeWeek": 502,
-    "timeMonth": 500,
+    "timeDay": 394,
+    "timeWeek": 491,
+    "timeMonth": 497,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-07-19": 62,
@@ -517,7 +517,7 @@
       "2026-05-02": 97,
       "2026-06-07": 92,
       "2026-07-15": 57,
-      "2026-07-17": 0
+      "2026-07-17": 84
     }
   },
   {
