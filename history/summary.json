@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/visoftware.dev.ico",
     "slug": "vi-software-portal",
     "status": "down",
-    "uptime": "95.47%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "95.90%",
+    "uptime": "95.45%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "95.88%",
     "time": 715,
     "timeDay": 493,
     "timeWeek": 889,
@@ -92,7 +92,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 804,
       "2026-07-15": 58,
-      "2026-07-27": 1
+      "2026-07-27": 112
     }
   },
   {
@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.visoftware.dev.ico",
     "slug": "vi-software-api",
     "status": "down",
-    "uptime": "96.06%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "96.69%",
+    "uptime": "96.04%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "96.67%",
     "time": 490,
     "timeDay": 261,
     "timeWeek": 484,
@@ -182,7 +182,7 @@
       "2026-05-02": 97,
       "2026-06-07": 93,
       "2026-07-15": 57,
-      "2026-07-27": 1
+      "2026-07-27": 112
     }
   },
   {
@@ -191,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.visoftware.dev.ico",
     "slug": "vi-software-yggdrasil-auth-server",
     "status": "down",
-    "uptime": "96.03%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.96%",
+    "uptime": "96.01%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "96.94%",
     "time": 466,
     "timeDay": 275,
     "timeWeek": 473,
@@ -261,7 +261,7 @@
       "2026-04-16": 67,
       "2026-05-02": 97,
       "2026-06-07": 93,
-      "2026-07-27": 0
+      "2026-07-27": 112
     }
   },
   {
@@ -509,7 +509,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.55%",
     "time": 364,
     "timeDay": 202,
     "timeWeek": 188,
