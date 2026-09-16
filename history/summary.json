@@ -4,17 +4,17 @@
     "url": "https://visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/visoftware.dev.ico",
     "slug": "vi-software-portal",
-    "status": "down",
-    "uptime": "96.12%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.38%",
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "97.06%",
     "time": 734,
-    "timeDay": 646,
-    "timeWeek": 875,
-    "timeMonth": 925,
-    "timeYear": 768,
+    "timeDay": 826,
+    "timeWeek": 914,
+    "timeMonth": 933,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2025-09-18": 6,
       "2025-09-22": 496,
@@ -80,7 +80,7 @@
       "2026-07-29": 195,
       "2026-08-31": 146,
       "2026-09-09": 124,
-      "2026-09-16": 1
+      "2026-09-16": 5
     }
   },
   {
@@ -88,16 +88,16 @@
     "url": "https://api.visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/api.visoftware.dev.ico",
     "slug": "vi-software-api",
-    "status": "down",
+    "status": "up",
     "uptime": "96.54%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "97.79%",
-    "time": 492,
-    "timeDay": 360,
-    "timeWeek": 487,
-    "timeMonth": 519,
+    "time": 493,
+    "timeDay": 468,
+    "timeWeek": 512,
+    "timeMonth": 524,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2025-09-18": 6,
@@ -157,7 +157,7 @@
       "2026-07-29": 195,
       "2026-08-31": 146,
       "2026-09-09": 124,
-      "2026-09-16": 1
+      "2026-09-16": 5
     }
   },
   {
@@ -165,17 +165,17 @@
     "url": "https://authserver.visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/authserver.visoftware.dev.ico",
     "slug": "vi-software-yggdrasil-auth-server",
-    "status": "down",
+    "status": "up",
     "uptime": "96.60%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.64%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "97.91%",
-    "time": 469,
-    "timeDay": 347,
-    "timeWeek": 474,
-    "timeMonth": 511,
-    "timeYear": 480,
+    "time": 470,
+    "timeDay": 434,
+    "timeWeek": 491,
+    "timeMonth": 514,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2025-09-18": 6,
       "2025-09-22": 496,
@@ -225,7 +225,7 @@
       "2026-07-29": 195,
       "2026-08-31": 146,
       "2026-09-09": 123,
-      "2026-09-16": 1
+      "2026-09-16": 5
     }
   },
   {
@@ -233,16 +233,16 @@
     "url": "https://cdn.visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.visoftware.dev.ico",
     "slug": "vi-software-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "96.54%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.66%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "97.93%",
     "time": 462,
-    "timeDay": 326,
-    "timeWeek": 476,
-    "timeMonth": 511,
+    "timeDay": 413,
+    "timeWeek": 490,
+    "timeMonth": 513,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-09-18": 6,
@@ -293,7 +293,7 @@
       "2026-06-07": 93,
       "2026-07-15": 57,
       "2026-09-09": 123,
-      "2026-09-16": 1
+      "2026-09-16": 5
     }
   },
   {
@@ -357,16 +357,16 @@
     "url": "https://otto-usercontent.visoftware.dev",
     "icon": "https://icons.duckduckgo.com/ip3/otto-usercontent.visoftware.dev.ico",
     "slug": "user-content-server-otto",
-    "status": "down",
+    "status": "up",
     "uptime": "96.67%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "99.67%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "97.79%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "97.78%",
     "time": 552,
-    "timeDay": 348,
-    "timeWeek": 497,
-    "timeMonth": 530,
+    "timeDay": 416,
+    "timeWeek": 504,
+    "timeMonth": 531,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2025-09-18": 6,
@@ -420,7 +420,7 @@
       "2026-07-15": 57,
       "2026-07-17": 84,
       "2026-09-09": 123,
-      "2026-09-16": 0
+      "2026-09-16": 5
     }
   },
   {
